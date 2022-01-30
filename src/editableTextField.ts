@@ -2,7 +2,7 @@ import { Button, Component, Input, P } from 'wecu';
 
 export default class EditableTextField extends Component {
   private input = new Input();
-  private toggleEdit = new Button('Edit');
+  private toggleEdit = new Button('Save');
   private editing = true;
 
   constructor() {
