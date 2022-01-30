@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./public/",
+    "noImplicitAny": true,
+    "target": "es2015",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": true
+  },
+  "include": [
+      "./src"
+    ]
+}
