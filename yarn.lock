@@ -1095,10 +1095,10 @@ webpack@^5.67.0:
     watchpack "^2.3.1"
     webpack-sources "^3.2.3"
 
-wecu@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/wecu/-/wecu-2.0.1.tgz#b91b9488f16c2fa25e59a6901985452d98a7f8a4"
-  integrity sha512-pPYAk94D6laZqTvueWnOe82fI8o589WPn7FP8vT/ZoLBMYPPGTPfe5fKVy2PbjQSoy6+D7OfYrnSQGJtjEAQuQ==
+wecu@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/wecu/-/wecu-2.0.4.tgz#d627fdc7fa7ffe531d41e42aa94fb6dce4216aa5"
+  integrity sha512-RaHcF+TtjUZ7EHTYsrkuDQ8Jw3C6bV19btfqDzvTFEQTo/W5+9diyFm5iLUipjeEDL2U/aB4f1+bShMVQUvsRw==
 
 whatwg-encoding@^2.0.0:
   version "2.0.0"
